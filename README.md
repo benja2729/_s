@@ -39,6 +39,8 @@ OR
 
 Then, update the stylesheet header in style.css and the links in footer.php with your own information. Next, update or delete this readme.
 
+Last, you should install the "Developer" plugin and follow the instructions at http://codex.wordpress.org/Theme_Unit_Test
+
 Now you're ready to go! The next step is easy to say but harder to do: make an awesome WordPress theme. :)
 
 Good luck!
